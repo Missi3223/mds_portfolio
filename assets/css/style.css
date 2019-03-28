@@ -72,19 +72,24 @@ i,
 }
 
 /* Header styles */
+h2,
 h3,
 h5 {
   filter: drop-shadow(0 0 0.75rem #000);
 }
-
+h2{
+  color: #2E002E;
+}
 /* Header colors */
-h2,
+
 h4 {
   color: #2E002E;
 }
 
 /* Specific header fontsize */
 h3 {
+  margin:0;
+  padding:7px;
   font-size: 1.2em;
 }
 
@@ -201,7 +206,7 @@ nav #logo-container {
 
 /* Parallax Container Styles */
 .parallax-container {
-  min-height: 380px;
+  min-height: 450px;
   line-height: 0;
   height: auto;
   color: rgba(255, 255, 255, .9);
