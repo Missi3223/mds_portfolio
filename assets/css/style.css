@@ -77,9 +77,11 @@ h3,
 h5 {
   filter: drop-shadow(0 0 0.75rem #000);
 }
-h2{
+
+h2 {
   color: #2E002E;
 }
+
 /* Header colors */
 
 h4 {
@@ -88,8 +90,8 @@ h4 {
 
 /* Specific header fontsize */
 h3 {
-  margin:0;
-  padding:7px;
+  margin: 0;
+  padding: 7px;
   font-size: 1.2em;
 }
 
@@ -104,6 +106,7 @@ h3 {
 .btn-large:hover {
   background-color: rgba(194, 38, 11) !important;
 }
+
 /* Body Text style */
 p {
   line-height: 2rem;
@@ -382,7 +385,8 @@ img {
   #firstImage {
     margin-bottom: -1.5em;
     min-width: 70%;
-    width: 70%;;
+    width: 70%;
+    ;
   }
 }
 
@@ -463,5 +467,5 @@ img {
     margin-bottom: -2.5em;
     min-width: 70%;
     width: 70%;
-    }
+  }
 }
