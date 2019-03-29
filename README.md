@@ -1,5 +1,5 @@
 # Portfolio
-Here are my open source complementary portfolio
+
 
 ### Projects
 
